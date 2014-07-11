@@ -1,3 +1,5 @@
+//Program for cost estimation based on the data taken from server and computation
+
 import java.io.*;
 import java.net.URL;
 public class CostEstimate
